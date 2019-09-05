@@ -1,0 +1,4 @@
+cc -m32 main.c
+
+sudo ./a.out
+
